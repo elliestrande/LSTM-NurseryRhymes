@@ -9,10 +9,7 @@ Course: CPSC-393 Machine Learning
 Assignment #4
 
 2) Source Files
-text_classification.ipynb
 lstm_nursery_rhymes.ipynb
-time_series_prediction.ipynb
-airline-passengers.csv
 nursery_rhymes.txt
 
 3) Errors
