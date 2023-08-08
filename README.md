@@ -1,9 +1,11 @@
 ## LSMT Nursery Rhymes
 
 Ellie Strande
-Student ID: 2371288
+
 Email: strande@chapman.edu
+
 Course: CPSC-393 Machine Learning
+
 Assignment #4
 
 2) Source Files
